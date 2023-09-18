@@ -1,0 +1,8 @@
+.tbl{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+}
+.buttons{
+    padding: 10px;
+}
